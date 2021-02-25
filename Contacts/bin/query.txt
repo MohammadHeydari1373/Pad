@@ -1,0 +1,26 @@
+
+USE [Contact_DB]
+GO
+/****** Object:  Table [dbo].[MyContacts]    Script Date: 06/12/1399 08:14:39 È.Ù ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[MyContacts](
+	[ContactId] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](100) NOT NULL,
+	[Family] [nvarchar](100) NOT NULL,
+	[Mobile] [nvarchar](100) NOT NULL,
+	[Age] [int] NOT NULL,
+	[Address] [nvarchar](max) NULL,
+ CONSTRAINT [PK_MyContacts] PRIMARY KEY CLUSTERED 
+(
+	[ContactId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+USE [master]
+GO
+ALTER DATABASE [Contact_DB] SET  READ_WRITE 
+GO

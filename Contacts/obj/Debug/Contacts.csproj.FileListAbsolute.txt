@@ -1,0 +1,10 @@
+G:\بازی پای گیم\سیشارپ\project\Contacts\bin\Debug\Contacts.exe.config
+G:\بازی پای گیم\سیشارپ\project\Contacts\bin\Debug\Contacts.exe
+G:\بازی پای گیم\سیشارپ\project\Contacts\bin\Debug\Contacts.pdb
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.exe
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.pdb
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.Form1.resources
+G:\بازی پای گیم\سیشارپ\project\Contacts\obj\Debug\Contacts.FrmEdit.resources
